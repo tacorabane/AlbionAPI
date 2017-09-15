@@ -1,4 +1,4 @@
-package api.leather_armors;
+package api.leather.armors;
 
 /**
  * Created by WeedBreed on 14/09/2017.

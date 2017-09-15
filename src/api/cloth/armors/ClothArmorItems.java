@@ -1,4 +1,4 @@
-package api.cloth_armors;
+package api.cloth.armors;
 
 /**
  * Created by WeedBreed on 14/09/2017.

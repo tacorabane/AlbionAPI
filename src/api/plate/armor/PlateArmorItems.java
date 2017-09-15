@@ -1,0 +1,91 @@
+package api.plate.armor;
+
+/**
+ * Created by WeedBreed on 15/09/2017.
+ */
+public class PlateArmorItems {
+    public final String NOVICES_SOLDIER_ARMOR = "T2_ARMOR_PLATE_SET1";
+    public final String JOURNEYMANS_SOLDIER_ARMOR = "T3_ARMOR_PLATE_SET1";
+    public final String LEGENDARY_ADVENTURERS_ARMOR = "UNIQUE_ARMOR_STARTERPACK_LEGENDARY";
+
+    public final String ADPETS_DEMON_ARMOR1 = "T4_ARMOR_PLATE_HELL";
+    public final String ADPETS_DEMON_ARMOR2 = "T4_ARMOR_PLATE_HELL@1";
+    public final String ADPETS_DEMON_ARMOR3 = "T4_ARMOR_PLATE_HELL@2";
+    public final String ADPETS_DEMON_ARMOR4 = "T4_ARMOR_PLATE_HELL@3";
+
+    public final String EXPERTS_DEMON_ARMOR1 = "T5_ARMOR_PLATE_HELL";
+    public final String EXPERTS_DEMON_ARMOR2 = "T5_ARMOR_PLATE_HELL@1";
+    public final String EXPERTS_DEMON_ARMOR3 = "T5_ARMOR_PLATE_HELL@2";
+    public final String EXPERTS_DEMON_ARMOR4 = "T5_ARMOR_PLATE_HELL@3";
+
+    public final String MASTERS_DEMON_ARMO1 = "T6_ARMOR_PLATE_HELL";
+
+    public final String GRANDMASTERS_DEMON_ARMOR1 = "T7_ARMOR_PLATE_HELL";
+
+    public final String ELDERS_DEMON_ARMOR1 = "T8_ARMOR_PLATE_HELL";
+
+    public final String ADEPTS_SOLDIER_ARMOR1 = "T4_ARMOR_PLATE_SET1";
+    public final String ADEPTS_SOLDIER_ARMOR2 = "T4_ARMOR_PLATE_SET1@1";
+    public final String ADEPTS_SOLDIER_ARMOR3 = "T4_ARMOR_PLATE_SET1@2";
+    public final String ADEPTS_SOLDIER_ARMOR4 = "T4_ARMOR_PLATE_SET1@3";
+
+    public final String EXPERTS_SOLDIER_ARMOR1 = "T5_ARMOR_PLATE_SET1";
+
+    public final String MASTERS_SOLDIER_ARMOR1 = "T6_ARMOR_PLATE_SET1";
+
+    public final String GRANDMASTERS_SOLDIER_ARMOR1 = "T7_ARMOR_PLATE_SET1";
+
+    public final String ELDERS_SOLDIER_ARMOR1 = "T8_ARMOR_PLATE_SET1";
+
+    public final String ADEPTS_KNIGHT_ARMOR1 = "T4_ARMOR_PLATE_SET2";
+    public final String ADEPTS_KNIGHT_ARMOR2 = "T4_ARMOR_PLATE_SET2@1";
+    public final String ADEPTS_KNIGHT_ARMOR3 = "T4_ARMOR_PLATE_SET2@2";
+    public final String ADEPTS_KNIGHT_ARMOR4 = "T4_ARMOR_PLATE_SET2@3";
+
+    public final String EXPERTS_KNIGHT_ARMOR1 = "T5_ARMOR_PLATE_SET2";
+
+    public final String MASTERS_KNIGHT_ARMOR1 = "T6_ARMOR_PLATE_SET2";
+
+    public final String GRANDMASTERS_KNIGHT_ARMOR1 = "T7_ARMOR_PLATE_SET2";
+
+    public final String ELDERS_KNIGHT_ARMOR1 = "T8_ARMOR_PLATE_SET2";
+
+    public final String ADEPTS_GUARDIAN_ARMOR1 = "T4_ARMOR_PLATE_SET3";
+    public final String ADEPTS_GUARDIAN_ARMOR2 = "T4_ARMOR_PLATE_SET3@1";
+    public final String ADEPTS_GUARDIAN_ARMOR3 = "T4_ARMOR_PLATE_SET3@2";
+    public final String ADEPTS_GUARDIAN_ARMOR4 = "T4_ARMOR_PLATE_SET3@3";
+
+    public final String EXPERTS_GUARDIAN_ARMOR1 = "T5_ARMOR_PLATE_SET3";
+
+    public final String MASTERS_GUARDIAN_ARMOR1 = "T6_ARMOR_PLATE_SET2";
+
+    public final String GRANDMASTERS_GUARDIAN_ARMOR1 = "T7_ARMOR_PLATE_SET2";
+
+    public final String ELDERS_GUARDIAN_ARMOR1 = "T8_ARMOR_PLATE_SET2";
+
+    public final String ADEPTS_GRAVEGUARD_ARMOR1 = "T4_ARMOR_PLATE_UNDEAD";
+    public final String ADEPTS_GRAVEGUARD_ARMOR2 = "T4_ARMOR_PLATE_UNDEAD@1";
+    public final String ADEPTS_GRAVEGUARD_ARMOR3 = "T4_ARMOR_PLATE_UNDEAD@2";
+    public final String ADEPTS_GRAVEGUARD_ARMOR4 = "T4_ARMOR_PLATE_UNDEAD@3";
+
+    public final String EXPERTS_GRAVEGUARD_ARMOR1 = "T5_ARMOR_PLATE_UNDEAD";
+
+    public final String MASTERS_GRAVEGUARD_ARMOR1 = "T6_ARMOR_PLATE_UNDEAD";
+
+    public final String GRANDMASTERS_GRAVEGUARD_ARMOR1 = "T7_ARMOR_PLATE_UNDEAD";
+
+    public final String ELDERS_GRAVEGUARD_ARMOR1 = "T8_ARMOR_PLATE_UNDEAD";
+
+    public final String ADEPTS_ROYAL_ARMOR1 = "T4_ARMOR_PLATE_ROYAL";
+    public final String ADEPTS_ROYAL_ARMOR2 = "T4_ARMOR_PLATE_ROYAL@1";
+    public final String ADEPTS_ROYAL_ARMOR3 = "T4_ARMOR_PLATE_ROYAL@2";
+    public final String ADEPTS_ROYAL_ARMOR4 = "T4_ARMOR_PLATE_ROYAL@3";
+
+    public final String EXPERTS_ROYAL_ARMOR1 = "T5_ARMOR_PLATE_ROYAL";
+
+    public final String MASTERS_ROYAL_ARMOR1 = "T6_ARMOR_PLATE_ROYAL";
+
+    public final String GRANDMASTERS_ROYAL_ARMOR1 = "T7_ARMOR_PLATE_ROYAL";
+
+    public final String ELDERS_ROYAL_ARMOR1 = "T7_ARMOR_PLATE_ROYAL";
+}

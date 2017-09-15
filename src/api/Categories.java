@@ -20,5 +20,5 @@ public class Categories {
     public final String MATERIALS_CAT = "Materials";
     public final String OTHER_CAT = "Other";
     public final String RESOURCE_CAT = "Resource";
-    public final String TROPHIES_CAT = "Trophies";public final String
+    public final String TROPHIES_CAT = "Trophies";
 }

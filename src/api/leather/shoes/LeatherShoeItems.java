@@ -1,4 +1,4 @@
-package api.leather_shoes;
+package api.leather.shoes;
 
 /**
  * Created by WeedBreed on 14/09/2017.

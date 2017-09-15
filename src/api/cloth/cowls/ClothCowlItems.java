@@ -1,4 +1,4 @@
-package api.cloth_cowls;
+package api.cloth.cowls;
 
 /**
  * Created by WeedBreed on 14/09/2017.

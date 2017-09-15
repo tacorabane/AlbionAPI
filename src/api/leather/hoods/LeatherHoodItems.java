@@ -1,4 +1,4 @@
-package api.leather_hoods;
+package api.leather.hoods;
 
 /**
  * Created by WeedBreed on 14/09/2017.
