@@ -2,16 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efc68d80-f6fc-4f1a-b684-b94e2a7690d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/cloth/shoes/ClothShoeItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/plate/armor/PlateArmorItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/plate/boots/PlateBootsItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/plate/helmet/PlateHelmetItems.java" />
-      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\cloth_armors\ClothArmorItems.java" afterPath="$PROJECT_DIR$/src/api/cloth/armors/ClothArmorItems.java" />
-      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\cloth_cowls\ClothCowlItems.java" afterPath="$PROJECT_DIR$/src/api/cloth/cowls/ClothCowlItems.java" />
-      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\leather_armors\LeatherArmorItems.java" afterPath="$PROJECT_DIR$/src/api/leather/armors/LeatherArmorItems.java" />
-      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\leather_hoods\LeatherHoodItems.java" afterPath="$PROJECT_DIR$/src/api/leather/hoods/LeatherHoodItems.java" />
-      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\leather_shoes\LeatherShoeItems.java" afterPath="$PROJECT_DIR$/src/api/leather/shoes/LeatherShoeItems.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/api/Categories.java" afterPath="$PROJECT_DIR$/src/api/Categories.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/backpack/harvester/HarversterBackpackItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/cap/harvester/HarvesterCapItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/garb/harvester/HarvesterGarbItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/workboots/harvester/HarvesterWorkbootsItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/workboots/lumberjack/LuberjackWorkbootsItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/backpack/lumberjack/LumberjackBackpackItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/cap/lumberjack/LumberjackCapItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/garb/lumberjack/LumberjackGarbItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/backpack/miner/MinerBackpackItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/cap/miner/MinerCapItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/garb/miner/MinerGarbItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/workboots/miner/MinerWorkbootsItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/backpack/quarrier/QuarrierBackpackItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/cap/quarrier/QuarrierCapItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/garb/quarrier/QuarrierGarbItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/workboots/quarrier/QuarrierWorkbootsItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/backpack/skinner/SkinnerBackpackItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/cap/skinner/SkinnerCapItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/garb/skinner/SkinnerGarbItems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/api/gathering_gear/workboots/skinner/SkinnerWorkbootsItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\cloth\armors\ClothArmorItems.java" afterPath="$PROJECT_DIR$/src/api/armors/cloth/armors/ClothArmorItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\cloth\cowls\ClothCowlItems.java" afterPath="$PROJECT_DIR$/src/api/armors/cloth/cowls/ClothCowlItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\cloth\shoes\ClothShoeItems.java" afterPath="$PROJECT_DIR$/src/api/armors/cloth/shoes/ClothShoeItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\leather\armors\LeatherArmorItems.java" afterPath="$PROJECT_DIR$/src/api/armors/leather/armors/LeatherArmorItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\leather\hoods\LeatherHoodItems.java" afterPath="$PROJECT_DIR$/src/api/armors/leather/hoods/LeatherHoodItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\leather\shoes\LeatherShoeItems.java" afterPath="$PROJECT_DIR$/src/api/armors/leather/shoes/LeatherShoeItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\plate\armor\PlateArmorItems.java" afterPath="$PROJECT_DIR$/src/api/armors/plate/armor/PlateArmorItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\plate\boots\PlateBootsItems.java" afterPath="$PROJECT_DIR$/src/api/armors/plate/boots/PlateBootsItems.java" />
+      <change type="MOVED" beforePath="C:\Users\WeedBreed\IdeaProjects\api\AlbionAPI\src\api\plate\helmet\PlateHelmetItems.java" afterPath="$PROJECT_DIR$/src/api/armors/plate/helmet/PlateHelmetItems.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlbionAPI.iws" />
@@ -34,101 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main/Main.java">
+      <file leaf-file-name="HarversterBackpackItems.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/backpack/harvester/HarversterBackpackItems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/Utile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClothCowlItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/cloth/cowls/ClothCowlItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="129" column="23" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClothShoeItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/cloth/shoes/ClothShoeItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlateArmorItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/plate/armor/PlateArmorItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlateHelmetItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/plate/helmet/PlateHelmetItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlateBootsItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/plate/boots/PlateBootsItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="58" column="75" selection-start-line="58" selection-start-column="75" selection-end-line="58" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClothArmorItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/cloth/armors/ClothArmorItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="159" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeatherShoeItems.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/leather/shoes/LeatherShoeItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="177" column="73" selection-start-line="177" selection-start-column="73" selection-end-line="177" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Categories.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/api/Categories.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5095368">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.16212533">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -171,6 +100,19 @@
         <option value="$PROJECT_DIR$/src/api/plate/helmet/PlateHelmetItems.java" />
         <option value="$PROJECT_DIR$/src/api/plate/boots/PlateBootsItems.java" />
         <option value="$PROJECT_DIR$/src/api/Categories.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/garb/test.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/test.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/backpack/quarrier/QuarrierBagpackItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/backpack/lumberjack/LumberjackBackpackItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/backpack/quarrier/QuarrierBackpackItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/backpack/skinner/SkinnerBackpackItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/garb/harvester/HarvesterGarbItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/garb/lumberjack/LumberjackGarbItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/garb/minner/MinnerGarbItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/garb/miner/MinerGarbItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/garb/quarrier/QuarrierGarbItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/garb/skinner/SkinnerGarbItems.java" />
+        <option value="$PROJECT_DIR$/src/api/gathering_gear/backpack/harvester/HarversterBackpackItems.java" />
       </list>
     </option>
   </component>
@@ -266,6 +208,178 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gathering_gear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gathering_gear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backpack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skinner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gathering_gear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backpack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quarrier" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gathering_gear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backpack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gathering_gear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backpack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumberjack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlbionAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gathering_gear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backpack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="harvester" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -458,7 +572,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2780612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27168366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -497,7 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/leather/hoods/LeatherHoodItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/leather/hoods/LeatherHoodItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.115803815">
           <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
@@ -505,7 +619,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/leather/armors/LeatherArmorItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/leather/armors/LeatherArmorItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="4.493188">
           <caret line="194" column="73" selection-start-line="194" selection-start-column="73" selection-end-line="194" selection-end-column="73" />
@@ -513,7 +627,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/leather/shoes/LeatherShoeItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/leather/shoes/LeatherShoeItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="177" column="73" selection-start-line="177" selection-start-column="73" selection-end-line="177" selection-end-column="73" />
@@ -521,7 +635,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/cloth/armors/ClothArmorItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/cloth/armors/ClothArmorItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="159" selection-end-column="71" />
@@ -529,7 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/cloth/cowls/ClothCowlItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/cloth/cowls/ClothCowlItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="129" column="23" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="23" />
@@ -537,7 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/cloth/shoes/ClothShoeItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/cloth/shoes/ClothShoeItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
@@ -545,7 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/plate/armor/PlateArmorItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/plate/armor/PlateArmorItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
@@ -553,7 +667,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/plate/helmet/PlateHelmetItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/plate/helmet/PlateHelmetItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
@@ -561,7 +675,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/plate/boots/PlateBootsItems.java">
+    <entry file="file://$PROJECT_DIR$/src/api/armors/plate/boots/PlateBootsItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="75" selection-start-line="58" selection-start-column="75" selection-end-line="58" selection-end-column="75" />
@@ -579,8 +693,176 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/api/Categories.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5095368">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/backpack/lumberjack/LumberjackBackpackItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/backpack/quarrier/QuarrierBackpackItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/backpack/skinner/SkinnerBackpackItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/backpack/miner/MinerBackpackItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/cap/harvester/HarvesterCapItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/cap/lumberjack/LumberjackCapItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/cap/miner/MinerCapItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/cap/quarrier/QuarrierCapItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/cap/skinner/SkinnerCapItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/workboots/harvester/HarvesterWorkbootsItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/workboots/lumberjack/LuberjackWorkbootsItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/workboots/miner/MinerWorkbootsItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/workboots/quarrier/QuarrierWorkbootsItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/workboots/skinner/SkinnerWorkbootsItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.115803815">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/garb/harvester/HarvesterGarbItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33242506">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/garb/lumberjack/LumberjackGarbItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/garb/miner/MinerGarbItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/garb/quarrier/QuarrierGarbItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/garb/skinner/SkinnerGarbItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34741145">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/gathering_gear/backpack/harvester/HarversterBackpackItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16212533">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
